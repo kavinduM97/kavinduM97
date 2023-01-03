@@ -43,7 +43,7 @@
   </a>
     &emsp;
    <a href="https://www.learncs.org/" target="_blank">
-    <img alt="C#" src="https://img.shields.io/badge/Cs%20-%2314354C.svg?style=plastic&logo=cs&logoColor=white">
+    <img alt="C#" src="https://img.shields.io/badge/Cs%20-%2314354C.svg?style=plastic&logo=c#&logoColor=white">
   </a>
 </p>
 
