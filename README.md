@@ -42,8 +42,8 @@
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
   </a>
     &emsp;
-   <a href="https://www.python.org" target="_blank">
-    <img alt="C#" src="https://img.shields.io/badge/C#%20-%2314354C.svg?style=plastic&logo=c#&logoColor=white">
+   <a href="https://www.learncs.org/" target="_blank">
+    <img alt="C#" src="https://img.shields.io/badge/cs%20-%2314354C.svg?style=plastic&logo=cs&logoColor=white">
   </a>
 </p>
 
