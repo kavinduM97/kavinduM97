@@ -58,7 +58,11 @@
     <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
   </a> 
 </p>
-
+  &emsp;
+  <a href="https://reactjs.org/" target="_blank">
+    <img alt="React" src="https://shields.io/badge/react-black?logo=react&style=for-the-badge%22" target="_blank">
+  </a> 
+</p
  ### 👉 Software & Tools
  
 <p align="center">
