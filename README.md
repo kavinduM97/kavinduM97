@@ -60,9 +60,8 @@
   
   &emsp;
   <a href="https://reactjs.org/" target="_blank">
-    <img alt="React" src="https://shields.io/badge/react%20-%231572B6.svg?style=plastic&logo=react&logoColor=white">
+    <img alt="React" src="https://shields.io/badge/React%20-%231572B6.svg?style=plastic&logo=react&logoColor=white">
   </a> 
-</p>
 </p>
 
  ### 👉 Software & Tools
