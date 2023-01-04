@@ -60,7 +60,7 @@
   
   &emsp;
   <a href="https://reactjs.org/" target="_blank">
-    <img alt="React" src="https://shields.io/badge/react-black?logo=react&style=for-the-badge%22">
+    <img alt="React" src="https://shields.io/badge/react%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
   </a> 
 </p>
 </p>
